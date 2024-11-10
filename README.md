@@ -1,4 +1,10 @@
-# Majora's Mask: Recompiled Mod Template
+# Majora's Mask: Premanent Razor Sword Mod
+
+WIP
+
+
+
+## Majora's Mask: Recompiled Mod Template
 
 This is an example mod for Majora's Mask: Recompiled that can be used as a template for creating mods. It has a basic build system, headers, sample code, and a mod config toml.
 

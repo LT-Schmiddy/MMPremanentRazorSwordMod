@@ -7,14 +7,15 @@
                 "${workspaceFolder}/include/dummy_headers",
                 "${workspaceFolder}/mm-decomp/include",
                 "${workspaceFolder}/mm-decomp/src",
-                "${workspaceFolder}/mm-decomp/assets"
+                "${workspaceFolder}/mm-decomp/assets",
+                "${workspaceFolder}/offline_build"
             ],
             "defines": [
                 "F3DEX_GBI_2",
                 "_LANGUAGE_C",
                 "MIPS"
             ],
-            "compilerPath": "clang",
+            "compilerPath": "C:\\Program Files\\LLVM\\bin\\clang-cl.exe",
             "cStandard": "c99",
             "intelliSenseMode": "clang-x86"
         }
