@@ -11,4 +11,5 @@
 patches.map
 build/
 tools/
+venv/
 .vscode/settings.json
