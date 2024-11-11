@@ -13,7 +13,6 @@ RECOMP_PATCH s32 func_8083FFEC(PlayState* play, Player* this) {
     return false;
 }
 
-
 /**
  * Used by Song of Time (when clicking "Yes") and (indirectly) by the "Dawn of the New Day" cutscene
  */

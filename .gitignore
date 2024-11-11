@@ -15,7 +15,10 @@
 patches.map
 
 # Folders:
+**/__pycache__
+.vscode/
 build/
 tools/
 venv/
-.vscode/
+
+
