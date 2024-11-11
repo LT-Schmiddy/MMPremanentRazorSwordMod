@@ -1,3 +1,4 @@
+# Extensions:
 *.d
 *.o
 *.elf
@@ -7,9 +8,14 @@
 *.lib
 *.pdb
 *.exp
+*.pyc
+
+# Files:
 ./funcs.h
 patches.map
+
+# Folders:
 build/
 tools/
 venv/
-.vscode/settings.json
+.vscode/
